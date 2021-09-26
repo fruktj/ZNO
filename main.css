@@ -1,0 +1,53 @@
+html, body {
+    height: 100%;
+}
+.body {
+    font: 16px / 1.42, Tahoma, sans-serif;
+    color: #212121;
+    -webkit-font-smoothink: antialiased;
+    -moz-font-smoothink: grayscale;
+}
+.hero {
+    height: 100vh;
+    min-height: 700px;
+    background: url(./img/тримає\ голову.jpg) center center / cover no-repeat;
+}
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    align-content: center;
+  }
+  
+.blank {
+    background: #212121;
+    color: #EEE8AA;
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px 12px;
+}
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 18em
+}
+.silka {
+    background: #212121;
+    color: #EEE8AA;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px 12px;
+
+}
+.ssilks {
+    background: #212121;
+    display: flex;
+    flex-wrap: wrap;
+    height: 330px;
+    align-content: center;
+    justify-content: center;
+
+   
+}
